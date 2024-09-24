@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "discord.js": "^14.16.2",
+    "gamedig": "^2.0.28"
+  }
+}

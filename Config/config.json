@@ -1,0 +1,10 @@
+{
+    "token": "Токен бота",
+    "channelId": "ID канала",
+    "server": {
+      "ip": "ip адркс",
+      "queryPort": 666
+    },
+    "updateInterval": 60
+  }
+  
