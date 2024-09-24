@@ -17,8 +17,8 @@
 
 1. Склонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/discord-rust-server-status-bot.git
-    cd discord-rust-server-status-bot
+    git clone https://github.com/anarchist-666/Discord-online-rust.git
+    cd Discord-online-rust
     ```
 
 2. Установите зависимости:
